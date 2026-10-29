@@ -1,0 +1,6 @@
+﻿ResortID,ResortName,Location,District,State,TotalRooms,ResortCategory
+R001,Lakeview Retreat,Lonavala,Pune,Maharashtra,100,Hill Station
+R002,Sahyadri Heights,Mahabaleshwar,Satara,Maharashtra,100,Hill Station
+R003,Coastal Breeze Resort,Alibaug,Raigad,Maharashtra,100,Beach
+R004,Vineyard Valley Resort,Nashik,Nashik,Maharashtra,100,Nature & Leisure
+R005,Forest Edge Resort,Matheran,Raigad,Maharashtra,100,Hill Station
